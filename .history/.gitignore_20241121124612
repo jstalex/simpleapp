@@ -25,4 +25,3 @@ dist-ssr
 foxgres-ui/node_modules
 
 /vendor/
-/pkg/
